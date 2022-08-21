@@ -2,6 +2,6 @@ Este es un texto para comenzar a practicar Git
 
 esta es la segunda linea, la anterior no va a ir en las modificaciones
 
-tercera linea para el archivo de practica
+tercera linea para el archivo de practica, pero voy a modificar algunas cosas
 
 vamos a poner la cuarta linea de este archivo de practica
