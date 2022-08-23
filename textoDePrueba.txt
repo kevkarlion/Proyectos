@@ -1,4 +1,4 @@
-Este es un texto para comenzar a practicar Git
+Vamos a iniciar con las practicas de git, con la primer linea
 
 esta es la segunda linea, la anterior no va a ir en las modificaciones
 
