@@ -11,3 +11,5 @@ la quinta linea va aca, veamos los cambios que produce git
 sexta linea para seguir practicando
 
 manana nos enfocaremos en su vida laboral
+
+vamos a probar el reset head
