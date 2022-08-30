@@ -1,1 +1,3 @@
 cuento creado para probar git parte 1
+
+segunda linea para probar reset
